@@ -1,1 +1,3 @@
-你好我爱你我爱你我爱你
+import sys
+for i in sys.path:
+    print(i+"\n")
